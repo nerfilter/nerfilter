@@ -2,6 +2,7 @@
 ! propaganda domains
 ||kormany.hu^
 ||fidesz.hu^
+||megafon.hu^
 ||m1.hu^
 ||hirtv.hu^
 ||tv2.hu^
@@ -80,6 +81,7 @@
 ||thatslife.hu^
 
 ! propaganda facebook pages
+||facebook.com/megafonkozpont^
 ||facebook.com/OrigoHirek^
 ||facebook.com/hirtv^
 ||facebook.com/888ponthu^
