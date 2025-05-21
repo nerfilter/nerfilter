@@ -1,3 +1,4 @@
+! Title: NER propaganda
 ! propaganda domains
 ||kormany.hu^
 ||m1.hu^
