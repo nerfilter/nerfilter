@@ -1,6 +1,7 @@
 ! Title: NER propaganda
 ! propaganda domains
 ||kormany.hu^
+||fidesz.hu^
 ||m1.hu^
 ||hirtv.hu^
 ||tv2.hu^
