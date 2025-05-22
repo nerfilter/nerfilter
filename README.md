@@ -1,7 +1,3 @@
----
-title: NER propaganda filter
----
-
 A filter list for my fellow Hungarians to block all the state-sponsored propaganda.
 
 Compatible with most ad blockers, including uBlock Origin and Adblock Plus.
