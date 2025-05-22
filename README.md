@@ -2,6 +2,16 @@ A filter list for my fellow Hungarians to block all the state-sponsored propagan
 
 Compatible with most ad blockers, including uBlock Origin and Adblock Plus.
 
-It's still in the early stages, so any help is appreciated.
+## Usage
 
-If you come across a site that isn't included here, feel free to open an issue or pull request.
+Simply add the following URL as a custom filter list:
+
+```
+https://nerfilter.github.io/nerfilter/list.txt
+```
+
+## Contributing
+
+This is still in the very early stages, so any help is appreciated.
+
+If you come across a site that isn't included here, feel free to open an issue or a pull request.
