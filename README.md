@@ -9,7 +9,7 @@ Compatible with most ad blockers, including uBlock Origin and Adblock Plus.
 Simply add the following URL as a custom filter list:
 
 ```
-https://nerfilter.github.io/nerfilter/list.txt
+https://nerfilter.hu/list.txt
 ```
 
 ## Contributing
