@@ -2,11 +2,14 @@
 ! propaganda domains
 ||24ora.hu^
 ||888.hu^
+||agrariumonline.hu^
+||agrokep.vg.hu^
 ||astronet.hu^
 ||automotor.hu^
 ||badog.blogstar.hu^
 ||bama.hu^
 ||baon.hu^
+||bennfentes.net^
 ||beol.hu^
 ||betyarsereg.hu^
 ||bmhirlap.hu^
@@ -14,6 +17,7 @@
 ||borsonline.hu^
 ||csupasport.hu^
 ||cvu.hu^
+||deliapro.hu^
 ||delmagyar.hu^
 ||demokrata.hu^
 ||dietaesfitnesz.hu^
@@ -27,6 +31,7 @@
 ||fidelitas.hu^
 ||fidesz.hu^
 ||figyelo.hu^
+||freemail.hu^
 ||gongradio.hu^
 ||haon.hu^
 ||heol.hu^
@@ -42,6 +47,8 @@
 ||hirtv.hu^
 ||hirvilag.hu^
 ||hungaryfirst.hu^
+||ingatlanbazar.hu^
+||jegyed.hu^
 ||jotemak.club^
 ||karcfm.hu^
 ||kelet.hu^
@@ -49,7 +56,9 @@
 ||kisalfold.hu^
 ||korkep.sk^
 ||kormany.hu^
+||köpönyeg.hu^
 ||lakaskultura.hu^
+||lapcentrum.hu^
 ||libsifigyelo.hu^
 ||life.hu^
 ||likebalaton.hu^
@@ -72,6 +81,7 @@
 ||napimigrans.info^
 ||naplo.hu^
 ||nationalreport.net^
+||newsfeed.hu^
 ||nool.hu^
 ||orientalista.hu^
 ||origo.hu^
@@ -79,6 +89,8 @@
 ||petofinepe.hu^
 ||polgarportal.hu^
 ||promenad.hu^
+||promenad24.hu^
+||retroradio.hu^
 ||ripost.hu^
 ||she.hu^
 ||somogyihirlap.hu^
@@ -93,9 +105,11 @@
 ||teol.hu^
 ||thatslife.hu^
 ||tolnainepujsag.hu^
+||travelo.hu^
 ||tuzfalcsoport.blogstar.hu^
 ||tv2.hu^
 ||tv2play.hu^
+||tvmusor.hu^
 ||ujneplap.hu^
 ||unilife.hu^
 ||vadhajtasok.hu^
@@ -104,6 +118,7 @@
 ||vasarhelyitv.hu^
 ||veol.hu^
 ||vg.hu^
+||videa.hu^
 ||videkize.hu^
 ||vitorlazasmagazin.hu^
 ||zaol.hu^
