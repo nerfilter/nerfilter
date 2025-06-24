@@ -181,6 +181,23 @@
 ||facebook.com/zalaihirlap.hu$document
 ||facebook.com/@zalaihirlap.hu$document
 
+||xxiszazadintezet.hu^
+||facebook.com/xxiszazadintezet$doc
+||facebook.com/@xxiszazadintezet$doc
+||instagram.com/xxiszazadintezet$doc
+||youtube.com/@xxiszazadintezet$doc
+||spotify.com/show/00AEJvea8S1LawtVsEvrVm$doc
+
+||youtube.com/@magyarnemzet_hivatalos$doc
+
+||youtube.com/@PATRIOTA.csatorna$doc
+||youtube.com/@HIRTVvideok$doc
+
+||facebook.com/nemponthu$doc
+||facebook.com/@nemponthu$doc
+||nem.hu^
+||youtube.com/@NEMpontHU$doc
+
 ! Megafos propagandisták
 ||facebook.com/megafonkozpont$doc
 ||facebook.com/@megafonkozpont$doc
