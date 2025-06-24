@@ -1,4 +1,4 @@
-! Title: NER propaganda
+! Title: NER filter - Nemzethy Együttbűnözés Rendszere propaganda
 ! propaganda domains
 ||24ora.hu^
 ||888.hu^
