@@ -31,7 +31,6 @@
 ||fidelitas.hu^
 ||fidesz.hu^
 ||figyelo.hu^
-||freemail.hu^
 ||gongradio.hu^
 ||haon.hu^
 ||heol.hu^
@@ -47,8 +46,6 @@
 ||hirtv.hu^
 ||hirvilag.hu^
 ||hungaryfirst.hu^
-||ingatlanbazar.hu^
-||jegyed.hu^
 ||jotemak.club^
 ||karcfm.hu^
 ||kelet.hu^
@@ -56,9 +53,7 @@
 ||kisalfold.hu^
 ||korkep.sk^
 ||kormany.hu^
-||köpönyeg.hu^
 ||lakaskultura.hu^
-||lapcentrum.hu^
 ||libsifigyelo.hu^
 ||life.hu^
 ||likebalaton.hu^
@@ -105,11 +100,9 @@
 ||teol.hu^
 ||thatslife.hu^
 ||tolnainepujsag.hu^
-||travelo.hu^
 ||tuzfalcsoport.blogstar.hu^
 ||tv2.hu^
 ||tv2play.hu^
-||tvmusor.hu^
 ||ujneplap.hu^
 ||unilife.hu^
 ||vadhajtasok.hu^
@@ -118,7 +111,6 @@
 ||vasarhelyitv.hu^
 ||veol.hu^
 ||vg.hu^
-||videa.hu^
 ||videkize.hu^
 ||vitorlazasmagazin.hu^
 ||zaol.hu^
