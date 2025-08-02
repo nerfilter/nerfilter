@@ -16,4 +16,4 @@ https://nerfilter.hu/list.txt
 
 This is still in the very early stages, so any help is appreciated.
 
-If you come across a site that isn't included here, feel free to open an issue or a pull request.
+If you come across a site that isn't included here, feel free to open an [issue](https://github.com/nerfilter/nerfilter/issues/new) or a [pull request](https://github.com/nerfilter/nerfilter/pulls).
