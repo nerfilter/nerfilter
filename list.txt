@@ -4,6 +4,7 @@
 ||888.hu^
 ||agrariumonline.hu^
 ||agrokep.vg.hu^
+||aktualis.hu^
 ||astronet.hu^
 ||automotor.hu^
 ||badog.blogstar.hu^
@@ -118,6 +119,8 @@
 ! propaganda facebook pages
 ||facebook.com/888ponthu$document
 ||facebook.com/@888ponthu$document
+||facebook.com/aktualis.hu$document
+||facebook.com/@aktualis.hu$document
 ||facebook.com/bama.hu$document
 ||facebook.com/@bama.hu$document
 ||facebook.com/dunaujvarosihirlap$document
