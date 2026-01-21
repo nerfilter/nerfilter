@@ -1,5 +1,7 @@
 # NER filter
 
+[🇭🇺 Magyar](README.hu.md) | **🇬🇧 English**
+
 A filter list for my fellow Hungarians to block all the state-sponsored propaganda.
 
 Compatible with most ad blockers, including uBlock Origin and Adblock Plus.

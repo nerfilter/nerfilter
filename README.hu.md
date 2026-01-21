@@ -1,5 +1,7 @@
 # NER filter
 
+**🇭🇺 Magyar** | [🇬🇧 English](README.en.md)
+
 Egy szűrőlista magyar honfitársaimnak, mely tiltja az összes kormánypropagandát.
 
 Kompatibilis a legtöbb hirdetésblokkolóval, ide értve a uBlock Origin-t és az Adblock Plus-t.
