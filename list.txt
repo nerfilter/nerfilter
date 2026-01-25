@@ -292,4 +292,5 @@
 ||rosszvalasztas.hu
 ||tiszaado.hu
 ||tiszacsomag.hu
+||weberbabfiguraja.hu
 
